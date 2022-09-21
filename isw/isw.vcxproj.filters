@@ -23,8 +23,5 @@
     <ClInclude Include="map.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="view.h">
-      <Filter>Исходные файлы</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

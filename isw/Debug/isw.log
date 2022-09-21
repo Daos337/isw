@@ -1,33 +1,65 @@
 ﻿  isw.cpp
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(23,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(31,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
           with
           [
               T=int
           ]
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(23,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(31,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
           with
           [
               T=int
           ]
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(23,36): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(31,36): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
           with
           [
               T=int
           ]
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(23,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(31,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
           with
           [
               T=int
           ]
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(54,15): warning C4244: инициализация: преобразование "sf::Int64" в "double", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(76,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(79,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(85,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(88,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(94,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(98,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(103,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(107,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(120,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
-C:\Users\Zver\source\repos\isw\isw\isw.cpp(120,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(39,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(40,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(43,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(44,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(45,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(46,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(60,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(61,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(71,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(79,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(107,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(107,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(124,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(124,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(124,36): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(124,33): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(153,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(178,31): warning C4305: =: усечение из "double" в "float"
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(179,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(189,31): warning C4305: =: усечение из "double" в "float"
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(190,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(202,17): warning C4305: =: усечение из "double" в "float"
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(203,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(215,17): warning C4305: =: усечение из "double" в "float"
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(216,32): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(262,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Zver\source\repos\isw\isw\isw.cpp(262,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
   isw.vcxproj -> C:\Users\Zver\source\repos\isw\Debug\isw.exe
